@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>MySQL Practice Exercise — Student Course Management</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f7f9fc;
+      color: #333;
+      margin: 2rem auto;
+      max-width: 900px;
+      padding: 1rem 2rem;
+      line-height: 1.6;
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    pre {
+      background: #2d2d2d;
+      color: #f8f8f2;
+      padding: 1rem;
+      border-radius: 5px;
+      overflow-x: auto;
+      font-size: 0.9rem;
+      line-height: 1.4;
+    }
+    code {
+      font-family: 'Source Code Pro', monospace;
+      font-size: 1rem;
+      color: #f92672;
+    }
+    section {
+      margin-bottom: 2rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #ccc;
+    }
+    ul {
+      list-style: inside disc;
+      margin-top: 0.5rem;
+    }
+    .sql-keyword {
+      color: #66d9ef;
+      font-weight: bold;
+    }
+    .note {
+      background: #d1ecf1;
+      border-left: 5px solid #17a2b8;
+      padding: 0.5rem 1rem;
+      margin-top: 1rem;
+      border-radius: 3px;
+      font-style: italic;
+      color: #0c5460;
+    }
+  </style>
+</head>
+<body>
+  <h1>MySQL Practice Exercise — Student Course Management</h1>
+
+  <section>
+    <h2>Scenario</h2>
+    <p>You need to create and manage a simple database to store information about departments, students, courses, and their enrollments with marks.</p>
+  </section>
+
+  <section>
+    <h2>Task 1: Create Tables (DDL & Constraints)</h2>
+    <p>Write MySQL statements to create the following tables with appropriate data types and constraints:</p>
+
+    <h3>Department</h3>
+    <ul>
+      <li><code>dept_id</code> (Primary Key, integer)</li>
+      <li><code>dept_name</code> (Unique, NOT NULL, varchar(50))</li>
+    </ul>
+
+    <h3>Student</h3>
+    <ul>
+      <li><code>roll_no</code> (Primary Key, integer)</li>
+      <li><code>name</code> (NOT NULL, varchar(50))</li>
+      <li><code>age</code> (integer, must be 17 or older)</li>
+      <li><code>dept_id</code> (int)</li>
+    </ul>
+
+    <h3>Course</h3>
+    <ul>
+      <li><code>course_id</code> (Primary Key, integer)</li>
+      <li><code>course_name</code> (NOT NULL, varchar(50))</li>
+      <li><code>credits</code> (integer between 1 and 5)</li>
+    </ul>
+
+    <h3>Enrollment</h3>
+    <ul>
+      <li><code>roll_no</code> (Foreign Key referencing Student)</li>
+      <li><code>course_id</code> (integer)</li>
+      <li><code>marks</code> (integer between 0 and 100, default 0)</li>
+    </ul>
+
+  <section>
+    <h2>Task 2: Insert Sample Data (DML)</h2>
+    <p>Insert at least:</p>
+    <ul>
+      <li>2 departments (e.g., Computer Science, Electronics)</li>
+      <li>3 students with varying ages and departments</li>
+      <li>2 courses with credits</li>
+      <li>Enrollment records for the students in the courses with marks</li>
+    </ul>
+
+    
+  <section>
+    <h2>Task 3: Write Queries</h2>
+    <h3>a. Retrieve the list of all students with their department names.</h3>
+    
+
+    <h3>b. Find all students who scored above 80 marks in any course, showing student name, course name, and marks.</h3>
+    
+    <h3>c. Update the marks of a student (choose any student and course) to 95.</h3>
+
+
+    <h3>d. Try deleting a course and explain what happens (consider foreign key constraints).</h3>
+   
+    
+    
+  </section>
+
+</body>
+</html>

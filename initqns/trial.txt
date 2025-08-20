@@ -1,0 +1,62 @@
+MySQL Practice Exercise — Student Course Management
+Given the following scenario:
+
+You need to create and manage a simple database to store information about departments, students, courses, and their enrollments with marks.
+Task 1: Create Tables (DDL & Constraints)
+
+Write MySQL statements to create the following tables with appropriate data types and constraints:
+
+    Department
+
+        dept_id (Primary Key, integer)
+
+        dept_name (Unique, NOT NULL, varchar(50))
+
+    Student
+
+        roll_no (Primary Key, integer)
+
+        name (NOT NULL, varchar(50))
+
+        age (integer, must be 17 or older)
+
+        dept_id (int)
+
+    Course
+
+        course_id (Primary Key, integer)
+
+        course_name (NOT NULL, varchar(50))
+
+        credits (integer between 1 and 5)
+
+    Enrollment
+
+        roll_no (Foreign Key referencing Student)
+
+        course_id (integer)
+
+        marks (integer between 0 and 100, default 0)
+
+        
+Task 2: Insert Sample Data (DML)
+
+Insert at least:
+
+    2 departments (e.g., Computer Science, Electronics)
+
+    3 students with varying ages and departments
+
+    2 courses with credits
+
+    Enrollment records for the students in the courses with marks
+
+Task 3: Write Queries
+
+a. Retrieve the list of all students with their department names.
+
+b. Find all students who scored above 80 marks in any course, showing student name, course name, and marks.
+
+c. Update the marks of a student (choose any student and course) to 95.
+
+d. Try deleting a course and explain what happens (consider foreign key constraints).

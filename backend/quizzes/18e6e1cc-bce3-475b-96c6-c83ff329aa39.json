@@ -1,0 +1,427 @@
+{
+  "id": "18e6e1cc-bce3-475b-96c6-c83ff329aa39",
+  "name": "PIC viva-1",
+  "description": "2nd year viva",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a user-defined function in C?",
+      "options": [
+        "A function provided by the compiler",
+        "A function created by the programmer",
+        "A predefined library function",
+        "A macro"
+      ],
+      "answer": "A function created by the programmer"
+    },
+    {
+      "id": 2,
+      "question": "Which keyword is used to define a function in C?",
+      "options": [
+        "function",
+        "def",
+        "void/int/float",
+        "define"
+      ],
+      "answer": "void/int/float"
+    },
+    {
+      "id": 3,
+      "question": "What does recursion mean in C?",
+      "options": [
+        "A function calling itself",
+        "Using multiple arrays",
+        "Writing long code",
+        "Using global variables"
+      ],
+      "answer": "A function calling itself"
+    },
+    {
+      "id": 4,
+      "question": "Which function is always present in every C program?",
+      "options": [
+        "start()",
+        "main()",
+        "begin()",
+        "program()"
+      ],
+      "answer": "main()"
+    },
+    {
+      "id": 5,
+      "question": "What is the main advantage of using functions in C?",
+      "options": [
+        "They make the code modular and reusable",
+        "They slow down execution",
+        "They remove the need for variables",
+        "They increase memory usage"
+      ],
+      "answer": "They make the code modular and reusable"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is NOT a valid function return type in C?",
+      "options": [
+        "void",
+        "int",
+        "float",
+        "define"
+      ],
+      "answer": "define"
+    },
+    {
+      "id": 7,
+      "question": "What is the default return type of a function in C if not specified?",
+      "options": [
+        "void",
+        "int",
+        "float",
+        "char"
+      ],
+      "answer": "int"
+    },
+    {
+      "id": 8,
+      "question": "What is required to declare a function in C?",
+      "options": [
+        "Function name and parameters",
+        "Only return type",
+        "Only variables",
+        "Only header file"
+      ],
+      "answer": "Function name and parameters"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is a correct recursive function example?",
+      "options": [
+        "A function calling another function",
+        "A function calling itself",
+        "A function without parameters",
+        "A function using arrays"
+      ],
+      "answer": "A function calling itself"
+    },
+    {
+      "id": 10,
+      "question": "What must every recursive function have?",
+      "options": [
+        "A base condition",
+        "An array",
+        "A loop",
+        "A pointer"
+      ],
+      "answer": "A base condition"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is NOT a standard library function in C?",
+      "options": [
+        "printf()",
+        "scanf()",
+        "main()",
+        "strlen()"
+      ],
+      "answer": "main()"
+    },
+    {
+      "id": 12,
+      "question": "Which operator is used to return a value from a function?",
+      "options": [
+        "exit",
+        "break",
+        "return",
+        "continue"
+      ],
+      "answer": "return"
+    },
+    {
+      "id": 13,
+      "question": "What is the index of the first element in a C array?",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "Depends on compiler"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": 14,
+      "question": "How do you declare a 1-D array of 10 integers in C?",
+      "options": [
+        "int arr[10];",
+        "array arr(10);",
+        "int arr(10);",
+        "arr[10] int;"
+      ],
+      "answer": "int arr[10];"
+    },
+    {
+      "id": 16,
+      "question": "How do you declare a 2-D array with 3 rows and 4 columns in C?",
+      "options": [
+        "int arr[3][4];",
+        "int arr(3,4);",
+        "array arr[3,4];",
+        "int arr[4][3];"
+      ],
+      "answer": "int arr[3][4];"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following accesses the element in 2nd row and 3rd column of array arr[3][4]?",
+      "options": [
+        "arr[2][3]",
+        "arr[1][2]",
+        "arr[3][2]",
+        "arr[2][1]"
+      ],
+      "answer": "arr[1][2]"
+    },
+    {
+      "id": 21,
+      "question": "Which array type is used to represent a matrix?",
+      "options": [
+        "1-D array",
+        "2-D array",
+        "3-D array",
+        "Pointer array"
+      ],
+      "answer": "2-D array"
+    },
+    {
+      "id": 23,
+      "question": "Which statement is true about arrays in C?",
+      "options": [
+        "Array size must be a constant value",
+        "Array size can be changed at runtime",
+        "Array index starts from 1",
+        "Arrays store values of different types"
+      ],
+      "answer": "Array size must be a constant value"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following is an invalid array declaration?",
+      "options": [
+        "int arr[5];",
+        "float arr[10];",
+        "char arr[20];",
+        "int arr;"
+      ],
+      "answer": "int arr;"
+    },
+    {
+      "id": 25,
+      "question": "Which header file is required for using printf and scanf?",
+      "options": [
+        "math.h",
+        "string.h",
+        "stdio.h",
+        "stdlib.h"
+      ],
+      "answer": "stdio.h"
+    },
+    {
+      "id": 28,
+      "question": "Which type of array is used to store a table of values?",
+      "options": [
+        "1-D array",
+        "2-D array",
+        "Pointer array",
+        "Jagged array"
+      ],
+      "answer": "2-D array"
+    },
+    {
+      "id": 29,
+      "question": "Which keyword is used to stop executing a loop in C?",
+      "options": [
+        "exit",
+        "stop",
+        "break",
+        "end"
+      ],
+      "answer": "break"
+    },
+    {
+      "id": 30,
+      "question": "Which keyword is used to skip an iteration in a loop?",
+      "options": [
+        "skip",
+        "exit",
+        "continue",
+        "return"
+      ],
+      "answer": "continue"
+    },
+    {
+      "id": 32,
+      "question": "Which function is used to find the length of a string in C?",
+      "options": [
+        "strlen()",
+        "strcpy()",
+        "strcmp()",
+        "strcat()"
+      ],
+      "answer": "strlen()"
+    },
+    {
+      "id": 33,
+      "question": "Which type of parameter passing copies the value into the function?",
+      "options": [
+        "Call by reference",
+        "Call by value",
+        "Pointer passing",
+        "Array passing"
+      ],
+      "answer": "Call by value"
+    },
+    {
+      "id": 34,
+      "question": "Which storage class allows functions to be used only in the same file?",
+      "options": [
+        "auto",
+        "extern",
+        "static",
+        "register"
+      ],
+      "answer": "static"
+    },
+    {
+      "id": 35,
+      "question": "Which keyword is used to declare constants in C?",
+      "options": [
+        "constant",
+        "define",
+        "const",
+        "final"
+      ],
+      "answer": "const"
+    },
+    {
+      "id": 37,
+      "question": "Which operator is used to access array elements?",
+      "options": [
+        ". operator",
+        "-> operator",
+        "[] operator",
+        "* operator"
+      ],
+      "answer": "[] operator"
+    },
+    {
+      "id": 40,
+      "question": "Which array stores names of students?",
+      "options": [
+        "int array",
+        "char array",
+        "float array",
+        "double array"
+      ],
+      "answer": "char array"
+    },
+    {
+      "id": 42,
+      "question": "Which keyword is used for including libraries in C?",
+      "options": [
+        "import",
+        "include",
+        "library",
+        "package"
+      ],
+      "answer": "include"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following can be used as a function parameter?",
+      "options": [
+        "Variables",
+        "Arrays",
+        "Pointers",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "id": 46,
+      "question": "Which operator is used to get the memory address of an array?",
+      "options": [
+        "& operator",
+        "* operator",
+        "-> operator",
+        ". operator"
+      ],
+      "answer": "& operator"
+    },
+    {
+      "id": 47,
+      "question": "Which function is used to copy strings in C?",
+      "options": [
+        "strcat()",
+        "strcpy()",
+        "strlen()",
+        "strcmp()"
+      ],
+      "answer": "strcpy()"
+    },
+    {
+      "id": 48,
+      "question": "Which loop ensures execution at least once?",
+      "options": [
+        "for loop",
+        "while loop",
+        "do-while loop",
+        "switch"
+      ],
+      "answer": "do-while loop"
+    },
+    {
+      "id": 50,
+      "question": "Which header file contains string functions?",
+      "options": [
+        "string.h",
+        "stdio.h",
+        "stdlib.h",
+        "math.h"
+      ],
+      "answer": "string.h"
+    },
+    {
+      "id": 52,
+      "question": "What will be the output of int arr[3] = {1,2,3}; printf(\"%d\", arr[1]); ?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "Error"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": 54,
+      "question": "Which function is used to compare strings?",
+      "options": [
+        "strcmp()",
+        "strcpy()",
+        "strlen()",
+        "strcat()"
+      ],
+      "answer": "strcmp()"
+    },
+    {
+      "id": 60,
+      "question": "Which type of function cannot return a value?",
+      "options": [
+        "int",
+        "float",
+        "void",
+        "char"
+      ],
+      "answer": "void"
+    }
+  ],
+  "createdAt": "2025-08-20T14:20:36.339435",
+  "isActive": false
+}

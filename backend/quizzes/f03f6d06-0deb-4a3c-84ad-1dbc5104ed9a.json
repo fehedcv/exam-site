@@ -1,0 +1,1329 @@
+{
+  "id": "f03f6d06-0deb-4a3c-84ad-1dbc5104ed9a",
+  "name": "ITI 2nd year",
+  "description": "2nd year viva",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Print Unit",
+        "Control Processing Unit"
+      ],
+      "answer": "Central Processing Unit"
+    },
+    {
+      "id": 2,
+      "question": "Which device connects your computer to the internet?",
+      "options": [
+        "Router",
+        "Printer",
+        "Scanner",
+        "Monitor"
+      ],
+      "answer": "Router"
+    },
+    {
+      "id": 3,
+      "question": "What does RAM stand for?",
+      "options": [
+        "Random Access Memory",
+        "Read Access Memory",
+        "Rapid Access Memory",
+        "Remote Access Memory"
+      ],
+      "answer": "Random Access Memory"
+    },
+    {
+      "id": 4,
+      "question": "Which of these is a storage device?",
+      "options": [
+        "Hard Disk Drive",
+        "Keyboard",
+        "Mouse",
+        "Monitor"
+      ],
+      "answer": "Hard Disk Drive"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is not an input device?",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Monitor",
+        "Scanner"
+      ],
+      "answer": "Monitor"
+    },
+    {
+      "id": 6,
+      "question": "What is the main circuit board in a computer called?",
+      "options": [
+        "Motherboard",
+        "Hard Drive",
+        "CPU",
+        "RAM"
+      ],
+      "answer": "Motherboard"
+    },
+    {
+      "id": 7,
+      "question": "Which cable is used to connect a computer to a network?",
+      "options": [
+        "Ethernet Cable",
+        "USB Cable",
+        "HDMI Cable",
+        "Audio Cable"
+      ],
+      "answer": "Ethernet Cable"
+    },
+    {
+      "id": 8,
+      "question": "Which memory is non-volatile?",
+      "options": [
+        "ROM",
+        "RAM",
+        "Cache",
+        "Registers"
+      ],
+      "answer": "ROM"
+    },
+    {
+      "id": 9,
+      "question": "Which device is used for printing hard copies?",
+      "options": [
+        "Printer",
+        "Scanner",
+        "Monitor",
+        "Speaker"
+      ],
+      "answer": "Printer"
+    },
+    {
+      "id": 10,
+      "question": "What does LAN stand for?",
+      "options": [
+        "Local Area Network",
+        "Large Area Network",
+        "Long Area Network",
+        "Line Area Network"
+      ],
+      "answer": "Local Area Network"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is used to cool down the CPU?",
+      "options": [
+        "Heat Sink",
+        "Monitor",
+        "Power Supply",
+        "Hard Disk"
+      ],
+      "answer": "Heat Sink"
+    },
+    {
+      "id": 12,
+      "question": "Which of these is not a type of computer port?",
+      "options": [
+        "USB",
+        "HDMI",
+        "VGA",
+        "HDD"
+      ],
+      "answer": "HDD"
+    },
+    {
+      "id": 13,
+      "question": "What device is used to input voice into a computer?",
+      "options": [
+        "Microphone",
+        "Monitor",
+        "Speaker",
+        "Scanner"
+      ],
+      "answer": "Microphone"
+    },
+    {
+      "id": 14,
+      "question": "Which unit is used to measure processing speed?",
+      "options": [
+        "GHz",
+        "Mbps",
+        "MB",
+        "Volts"
+      ],
+      "answer": "GHz"
+    },
+    {
+      "id": 15,
+      "question": "Which of these is an example of an output device?",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "Mouse",
+        "Microphone"
+      ],
+      "answer": "Monitor"
+    },
+    {
+      "id": 16,
+      "question": "What does IP stand for in networking?",
+      "options": [
+        "Internet Protocol",
+        "Internal Processing",
+        "Internet Password",
+        "Interface Program"
+      ],
+      "answer": "Internet Protocol"
+    },
+    {
+      "id": 17,
+      "question": "Which device allows wireless communication between devices?",
+      "options": [
+        "Wi-Fi Router",
+        "Printer",
+        "Monitor",
+        "Keyboard"
+      ],
+      "answer": "Wi-Fi Router"
+    },
+    {
+      "id": 18,
+      "question": "Which network device regenerates signals?",
+      "options": [
+        "Repeater",
+        "Router",
+        "Switch",
+        "Bridge"
+      ],
+      "answer": "Repeater"
+    },
+    {
+      "id": 19,
+      "question": "Which is a valid IP address?",
+      "options": [
+        "192.168.1.1",
+        "256.100.1.1",
+        "192.168.999.1",
+        "999.999.999.999"
+      ],
+      "answer": "192.168.1.1"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is not a computer network type?",
+      "options": [
+        "PAN",
+        "LAN",
+        "MAN",
+        "BAN"
+      ],
+      "answer": "BAN"
+    },
+    {
+      "id": 21,
+      "question": "Which protocol is used to transfer web pages?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "TCP",
+        "IP"
+      ],
+      "answer": "HTTP"
+    },
+    {
+      "id": 22,
+      "question": "What device stores the BIOS?",
+      "options": [
+        "ROM",
+        "RAM",
+        "Hard Disk",
+        "CPU"
+      ],
+      "answer": "ROM"
+    },
+    {
+      "id": 23,
+      "question": "Which part of the computer executes instructions?",
+      "options": [
+        "CPU",
+        "Hard Disk",
+        "Monitor",
+        "RAM"
+      ],
+      "answer": "CPU"
+    },
+    {
+      "id": 24,
+      "question": "Which component supplies power to the computer?",
+      "options": [
+        "SMPS",
+        "RAM",
+        "Processor",
+        "Motherboard"
+      ],
+      "answer": "SMPS"
+    },
+    {
+      "id": 25,
+      "question": "Which of these is not an operating system?",
+      "options": [
+        "Windows",
+        "Linux",
+        "Oracle",
+        "MacOS"
+      ],
+      "answer": "Oracle"
+    },
+    {
+      "id": 26,
+      "question": "Which layer in the OSI model handles encryption?",
+      "options": [
+        "Presentation Layer",
+        "Session Layer",
+        "Network Layer",
+        "Application Layer"
+      ],
+      "answer": "Presentation Layer"
+    },
+    {
+      "id": 27,
+      "question": "Which connector is commonly used for computer monitors?",
+      "options": [
+        "VGA",
+        "RJ-45",
+        "USB",
+        "RJ-11"
+      ],
+      "answer": "VGA"
+    },
+    {
+      "id": 28,
+      "question": "What does USB stand for?",
+      "options": [
+        "Universal Serial Bus",
+        "United System Board",
+        "Unique Serial Bit",
+        "Uniform Source Bus"
+      ],
+      "answer": "Universal Serial Bus"
+    },
+    {
+      "id": 29,
+      "question": "Which device converts digital signals to analog for telephone lines?",
+      "options": [
+        "Modem",
+        "Router",
+        "Switch",
+        "Hub"
+      ],
+      "answer": "Modem"
+    },
+    {
+      "id": 30,
+      "question": "Which of these is a networking device?",
+      "options": [
+        "Switch",
+        "Scanner",
+        "Speaker",
+        "Keyboard"
+      ],
+      "answer": "Switch"
+    },
+    {
+      "id": 31,
+      "question": "What type of device is a keyboard?",
+      "options": [
+        "Input Device",
+        "Output Device",
+        "Storage Device",
+        "Display Device"
+      ],
+      "answer": "Input Device"
+    },
+    {
+      "id": 32,
+      "question": "Which device is used to connect multiple computers in a network?",
+      "options": [
+        "Switch",
+        "Printer",
+        "Monitor",
+        "Scanner"
+      ],
+      "answer": "Switch"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following uses light to transmit data?",
+      "options": [
+        "Fiber Optic Cable",
+        "Twisted Pair Cable",
+        "Coaxial Cable",
+        "HDMI Cable"
+      ],
+      "answer": "Fiber Optic Cable"
+    },
+    {
+      "id": 34,
+      "question": "Which port is commonly used for printers?",
+      "options": [
+        "USB",
+        "HDMI",
+        "Ethernet",
+        "VGA"
+      ],
+      "answer": "USB"
+    },
+    {
+      "id": 35,
+      "question": "What does HTTP stand for?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "HighText Transfer Protocol",
+        "HyperText Transmission Protocol",
+        "Hyper Transfer Text Protocol"
+      ],
+      "answer": "HyperText Transfer Protocol"
+    },
+    {
+      "id": 36,
+      "question": "Which component temporarily holds data being used by the CPU?",
+      "options": [
+        "RAM",
+        "ROM",
+        "Hard Drive",
+        "Motherboard"
+      ],
+      "answer": "RAM"
+    },
+    {
+      "id": 37,
+      "question": "What is the function of a firewall?",
+      "options": [
+        "Block unauthorized access",
+        "Cool the CPU",
+        "Transmit signals",
+        "Increase bandwidth"
+      ],
+      "answer": "Block unauthorized access"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is NOT a network device?",
+      "options": [
+        "Joystick",
+        "Switch",
+        "Router",
+        "Hub"
+      ],
+      "answer": "Joystick"
+    },
+    {
+      "id": 39,
+      "question": "What is the smallest unit of data in a computer?",
+      "options": [
+        "Bit",
+        "Byte",
+        "Nibble",
+        "Word"
+      ],
+      "answer": "Bit"
+    },
+    {
+      "id": 40,
+      "question": "What is the standard speed unit for network connections?",
+      "options": [
+        "Mbps",
+        "GHz",
+        "MB",
+        "RPM"
+      ],
+      "answer": "Mbps"
+    },
+    {
+      "id": 41,
+      "question": "Which device translates domain names into IP addresses?",
+      "options": [
+        "DNS Server",
+        "Router",
+        "Switch",
+        "Firewall"
+      ],
+      "answer": "DNS Server"
+    },
+    {
+      "id": 42,
+      "question": "Which type of memory is used to store the boot process?",
+      "options": [
+        "ROM",
+        "RAM",
+        "Hard Drive",
+        "Cache"
+      ],
+      "answer": "ROM"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is not an example of an OS?",
+      "options": [
+        "BIOS",
+        "Windows",
+        "Linux",
+        "MacOS"
+      ],
+      "answer": "BIOS"
+    },
+    {
+      "id": 44,
+      "question": "Which part of the computer stores data permanently?",
+      "options": [
+        "Hard Drive",
+        "RAM",
+        "CPU",
+        "Cache"
+      ],
+      "answer": "Hard Drive"
+    },
+    {
+      "id": 45,
+      "question": "What does MAC address stand for?",
+      "options": [
+        "Media Access Control",
+        "Machine Access Code",
+        "Main Access Control",
+        "Mobile Access Card"
+      ],
+      "answer": "Media Access Control"
+    },
+    {
+      "id": 46,
+      "question": "Which component is considered the 'brain' of the computer?",
+      "options": [
+        "CPU",
+        "RAM",
+        "Hard Drive",
+        "GPU"
+      ],
+      "answer": "CPU"
+    },
+    {
+      "id": 47,
+      "question": "What does the 'ping' command test?",
+      "options": [
+        "Network connectivity",
+        "Hard drive health",
+        "CPU temperature",
+        "Printer status"
+      ],
+      "answer": "Network connectivity"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following is not a peripheral device?",
+      "options": [
+        "RAM",
+        "Mouse",
+        "Keyboard",
+        "Printer"
+      ],
+      "answer": "RAM"
+    },
+    {
+      "id": 49,
+      "question": "What is the full form of URL?",
+      "options": [
+        "Uniform Resource Locator",
+        "Unique Resource Locator",
+        "Uniform Record Locator",
+        "Unified Routing Locator"
+      ],
+      "answer": "Uniform Resource Locator"
+    },
+    {
+      "id": 50,
+      "question": "What is the function of a NIC?",
+      "options": [
+        "Connect to a network",
+        "Print documents",
+        "Display output",
+        "Run applications"
+      ],
+      "answer": "Connect to a network"
+    },
+    {
+      "id": 51,
+      "question": "Which connector is used for telephone lines?",
+      "options": [
+        "RJ-11",
+        "RJ-45",
+        "USB",
+        "HDMI"
+      ],
+      "answer": "RJ-11"
+    },
+    {
+      "id": 52,
+      "question": "What is the term for unwanted email messages?",
+      "options": [
+        "Spam",
+        "Junk",
+        "Malware",
+        "Phishing"
+      ],
+      "answer": "Spam"
+    },
+    {
+      "id": 53,
+      "question": "Which device is used to scan documents?",
+      "options": [
+        "Scanner",
+        "Monitor",
+        "Projector",
+        "Printer"
+      ],
+      "answer": "Scanner"
+    },
+    {
+      "id": 54,
+      "question": "Which computer component handles graphics processing?",
+      "options": [
+        "GPU",
+        "CPU",
+        "RAM",
+        "ROM"
+      ],
+      "answer": "GPU"
+    },
+    {
+      "id": 55,
+      "question": "What kind of software manages hardware?",
+      "options": [
+        "Operating System",
+        "Application Software",
+        "Utility Software",
+        "Database Software"
+      ],
+      "answer": "Operating System"
+    },
+    {
+      "id": 56,
+      "question": "Which of these devices has the highest storage capacity?",
+      "options": [
+        "Hard Drive",
+        "RAM",
+        "DVD",
+        "Floppy Disk"
+      ],
+      "answer": "Hard Drive"
+    },
+    {
+      "id": 57,
+      "question": "Which of the following is not a wired transmission medium?",
+      "options": [
+        "Bluetooth",
+        "Coaxial",
+        "Twisted Pair",
+        "Fiber Optic"
+      ],
+      "answer": "Bluetooth"
+    },
+    {
+      "id": 58,
+      "question": "Which device amplifies and retransmits network signals?",
+      "options": [
+        "Repeater",
+        "Switch",
+        "Router",
+        "Modem"
+      ],
+      "answer": "Repeater"
+    },
+    {
+      "id": 59,
+      "question": "What is the default port for HTTP?",
+      "options": [
+        "80",
+        "21",
+        "25",
+        "443"
+      ],
+      "answer": "80"
+    },
+    {
+      "id": 60,
+      "question": "What does DNS stand for?",
+      "options": [
+        "Domain Name System",
+        "Data Network Service",
+        "Digital Naming System",
+        "Domain Network Server"
+      ],
+      "answer": "Domain Name System"
+    },
+    {
+      "id": 61,
+      "question": "Which of the following is a type of ROM?",
+      "options": [
+        "EPROM",
+        "DDR",
+        "SSD",
+        "HDD"
+      ],
+      "answer": "EPROM"
+    },
+    {
+      "id": 62,
+      "question": "Which command is used to check IP configuration?",
+      "options": [
+        "ipconfig",
+        "ping",
+        "netstat",
+        "tracert"
+      ],
+      "answer": "ipconfig"
+    },
+    {
+      "id": 63,
+      "question": "What is a common use of Bluetooth?",
+      "options": [
+        "Short-range wireless communication",
+        "Long-distance internet access",
+        "Wired printing",
+        "Data encryption"
+      ],
+      "answer": "Short-range wireless communication"
+    },
+    {
+      "id": 64,
+      "question": "What is the purpose of a heat sink?",
+      "options": [
+        "Dissipate heat from components",
+        "Store data",
+        "Transmit signals",
+        "Generate power"
+      ],
+      "answer": "Dissipate heat from components"
+    },
+    {
+      "id": 65,
+      "question": "Which of these is a pointing device?",
+      "options": [
+        "Mouse",
+        "Speaker",
+        "Monitor",
+        "CPU"
+      ],
+      "answer": "Mouse"
+    },
+    {
+      "id": 66,
+      "question": "What does BIOS stand for?",
+      "options": [
+        "Basic Input Output System",
+        "Binary Input Output Service",
+        "Basic Integrated Output Software",
+        "Built-in Operating System"
+      ],
+      "answer": "Basic Input Output System"
+    },
+    {
+      "id": 67,
+      "question": "What device is used to protect against power surges?",
+      "options": [
+        "Surge Protector",
+        "Router",
+        "Modem",
+        "Inverter"
+      ],
+      "answer": "Surge Protector"
+    },
+    {
+      "id": 68,
+      "question": "Which of the following is not a function of an operating system?",
+      "options": [
+        "Compiling Code",
+        "File Management",
+        "Memory Management",
+        "Device Control"
+      ],
+      "answer": "Compiling Code"
+    },
+    {
+      "id": 69,
+      "question": "Which part of a computer is responsible for arithmetic operations?",
+      "options": [
+        "ALU",
+        "RAM",
+        "ROM",
+        "Cache"
+      ],
+      "answer": "ALU"
+    },
+    {
+      "id": 70,
+      "question": "What is the full form of SSD?",
+      "options": [
+        "Solid State Drive",
+        "System Storage Device",
+        "Secure Storage Device",
+        "Software Storage Disk"
+      ],
+      "answer": "Solid State Drive"
+    },
+    {
+      "id": 71,
+      "question": "Which of the following is a volatile memory?",
+      "options": [
+        "RAM",
+        "ROM",
+        "SSD",
+        "HDD"
+      ],
+      "answer": "RAM"
+    },
+    {
+      "id": 72,
+      "question": "Which of the following topologies has a central hub?",
+      "options": [
+        "Star",
+        "Ring",
+        "Bus",
+        "Mesh"
+      ],
+      "answer": "Star"
+    },
+    {
+      "id": 73,
+      "question": "Which protocol is used for secure web browsing?",
+      "options": [
+        "HTTPS",
+        "FTP",
+        "HTTP",
+        "SMTP"
+      ],
+      "answer": "HTTPS"
+    },
+    {
+      "id": 74,
+      "question": "What is the role of a modem?",
+      "options": [
+        "Modulate and demodulate signals",
+        "Print documents",
+        "Store data",
+        "Route packets"
+      ],
+      "answer": "Modulate and demodulate signals"
+    },
+    {
+      "id": 75,
+      "question": "What is latency in networking?",
+      "options": [
+        "Delay in data transmission",
+        "Data loss",
+        "Bandwidth",
+        "Error rate"
+      ],
+      "answer": "Delay in data transmission"
+    },
+    {
+      "id": 76,
+      "question": "Which of these is an optical storage device?",
+      "options": [
+        "CD-ROM",
+        "SSD",
+        "Flash Drive",
+        "Hard Disk"
+      ],
+      "answer": "CD-ROM"
+    },
+    {
+      "id": 77,
+      "question": "Which type of memory is fastest?",
+      "options": [
+        "Cache",
+        "RAM",
+        "Hard Disk",
+        "Flash Drive"
+      ],
+      "answer": "Cache"
+    },
+    {
+      "id": 78,
+      "question": "Which network device filters traffic based on IP addresses?",
+      "options": [
+        "Firewall",
+        "Switch",
+        "Hub",
+        "Repeater"
+      ],
+      "answer": "Firewall"
+    },
+    {
+      "id": 79,
+      "question": "Which device is used to project images onto a screen?",
+      "options": [
+        "Projector",
+        "Monitor",
+        "Scanner",
+        "Printer"
+      ],
+      "answer": "Projector"
+    },
+    {
+      "id": 80,
+      "question": "Which of the following is a command-line tool?",
+      "options": [
+        "ipconfig",
+        "Chrome",
+        "Word",
+        "Paint"
+      ],
+      "answer": "ipconfig"
+    },
+    {
+      "id": 81,
+      "question": "What kind of device is a joystick?",
+      "options": [
+        "Input device",
+        "Output device",
+        "Storage device",
+        "Display device"
+      ],
+      "answer": "Input device"
+    },
+    {
+      "id": 82,
+      "question": "Which of these is used to display video output?",
+      "options": [
+        "Monitor",
+        "Keyboard",
+        "Scanner",
+        "Mouse"
+      ],
+      "answer": "Monitor"
+    },
+    {
+      "id": 83,
+      "question": "Which port is used for secure HTTP?",
+      "options": [
+        "443",
+        "80",
+        "21",
+        "22"
+      ],
+      "answer": "443"
+    },
+    {
+      "id": 84,
+      "question": "What does HDMI stand for?",
+      "options": [
+        "High-Definition Multimedia Interface",
+        "High-Digital Monitor Interface",
+        "Hard Disk Media Interface",
+        "Hyper Data Monitor Interface"
+      ],
+      "answer": "High-Definition Multimedia Interface"
+    },
+    {
+      "id": 85,
+      "question": "Which of the following is a biometric device?",
+      "options": [
+        "Fingerprint Scanner",
+        "Printer",
+        "Mouse",
+        "Webcam"
+      ],
+      "answer": "Fingerprint Scanner"
+    },
+    {
+      "id": 86,
+      "question": "What is the default gateway in networking?",
+      "options": [
+        "Access point to another network",
+        "File storage location",
+        "Firewall rule",
+        "DNS record"
+      ],
+      "answer": "Access point to another network"
+    },
+    {
+      "id": 87,
+      "question": "Which of the following is not a hardware component?",
+      "options": [
+        "Operating System",
+        "Monitor",
+        "Mouse",
+        "Motherboard"
+      ],
+      "answer": "Operating System"
+    },
+    {
+      "id": 88,
+      "question": "What is the function of a power supply unit (PSU)?",
+      "options": [
+        "Convert AC to DC",
+        "Store data",
+        "Run applications",
+        "Cool the CPU"
+      ],
+      "answer": "Convert AC to DC"
+    },
+    {
+      "id": 89,
+      "question": "What is the main function of the control unit in the CPU?",
+      "options": [
+        "Direct operations of the processor",
+        "Store data",
+        "Transmit data",
+        "Display results"
+      ],
+      "answer": "Direct operations of the processor"
+    },
+    {
+      "id": 90,
+      "question": "Which of the following is a network topology?",
+      "options": [
+        "Ring",
+        "Packet",
+        "Node",
+        "Client"
+      ],
+      "answer": "Ring"
+    },
+    {
+      "id": 91,
+      "question": "What is file sharing?",
+      "options": [
+        "Transferring files between devices",
+        "Printing documents",
+        "Editing text files",
+        "Backing up data"
+      ],
+      "answer": "Transferring files between devices"
+    },
+    {
+      "id": 92,
+      "question": "Which protocol is commonly used for file sharing over the internet?",
+      "options": [
+        "FTP",
+        "HTTP",
+        "SMTP",
+        "SNMP"
+      ],
+      "answer": "FTP"
+    },
+    {
+      "id": 93,
+      "question": "Which of the following is a peer-to-peer file sharing protocol?",
+      "options": [
+        "BitTorrent",
+        "HTTP",
+        "SSH",
+        "SMTP"
+      ],
+      "answer": "BitTorrent"
+    },
+    {
+      "id": 94,
+      "question": "Which application is widely used for cloud-based file sharing?",
+      "options": [
+        "Google Drive",
+        "VLC Player",
+        "Adobe Photoshop",
+        "MS Word"
+      ],
+      "answer": "Google Drive"
+    },
+    {
+      "id": 95,
+      "question": "What does SMB stand for in file sharing?",
+      "options": [
+        "Server Message Block",
+        "System Management Base",
+        "Secure Mail Bridge",
+        "Small Memory Block"
+      ],
+      "answer": "Server Message Block"
+    },
+    {
+      "id": 96,
+      "question": "Which port does FTP use by default?",
+      "options": [
+        "21",
+        "80",
+        "22",
+        "25"
+      ],
+      "answer": "21"
+    },
+    {
+      "id": 97,
+      "question": "Which file sharing service is integrated into Windows?",
+      "options": [
+        "OneDrive",
+        "Dropbox",
+        "Google Drive",
+        "iCloud"
+      ],
+      "answer": "OneDrive"
+    },
+    {
+      "id": 98,
+      "question": "Which of the following is NOT a cloud storage provider?",
+      "options": [
+        "Facebook",
+        "Dropbox",
+        "iCloud",
+        "Google Drive"
+      ],
+      "answer": "Facebook"
+    },
+    {
+      "id": 99,
+      "question": "What is the purpose of a shared folder on a network?",
+      "options": [
+        "Allow multiple users to access files",
+        "Encrypt files",
+        "Delete temporary files",
+        "Create backups"
+      ],
+      "answer": "Allow multiple users to access files"
+    },
+    {
+      "id": 100,
+      "question": "What is a major risk of file sharing over public networks?",
+      "options": [
+        "Unauthorized access",
+        "Improved speed",
+        "Data compression",
+        "Longer battery life"
+      ],
+      "answer": "Unauthorized access"
+    },
+    {
+      "id": 101,
+      "question": "Which of these allows real-time collaboration and file sharing?",
+      "options": [
+        "Google Docs",
+        "Notepad",
+        "Paint",
+        "Calculator"
+      ],
+      "answer": "Google Docs"
+    },
+    {
+      "id": 102,
+      "question": "Which of the following protocols encrypts file transfers?",
+      "options": [
+        "SFTP",
+        "FTP",
+        "TFTP",
+        "HTTP"
+      ],
+      "answer": "SFTP"
+    },
+    {
+      "id": 103,
+      "question": "Which setting must be enabled to allow sharing in Windows?",
+      "options": [
+        "Network Discovery",
+        "Flight Mode",
+        "Bluetooth",
+        "Firewall"
+      ],
+      "answer": "Network Discovery"
+    },
+    {
+      "id": 104,
+      "question": "What does a file permission define?",
+      "options": [
+        "Who can access or modify a file",
+        "File name",
+        "File size",
+        "File color"
+      ],
+      "answer": "Who can access or modify a file"
+    },
+    {
+      "id": 105,
+      "question": "Which is NOT a file sharing method?",
+      "options": [
+        "Screen capture",
+        "Email attachments",
+        "USB drive",
+        "Network sharing"
+      ],
+      "answer": "Screen capture"
+    },
+    {
+      "id": 106,
+      "question": "What is a public link in cloud storage?",
+      "options": [
+        "A URL to share a file with anyone",
+        "An internal device address",
+        "A BIOS setting",
+        "An encryption key"
+      ],
+      "answer": "A URL to share a file with anyone"
+    },
+    {
+      "id": 107,
+      "question": "Which device can be used to share files over a home network?",
+      "options": [
+        "NAS",
+        "Mouse",
+        "Monitor",
+        "Scanner"
+      ],
+      "answer": "NAS"
+    },
+    {
+      "id": 108,
+      "question": "Which operating system command is used to share a folder in Linux?",
+      "options": [
+        "samba",
+        "share",
+        "ftp-start",
+        "network-run"
+      ],
+      "answer": "samba"
+    },
+    {
+      "id": 109,
+      "question": "What is the full form of P2P?",
+      "options": [
+        "Peer-to-Peer",
+        "Private-to-Private",
+        "Process-to-Process",
+        "Page-to-Page"
+      ],
+      "answer": "Peer-to-Peer"
+    },
+    {
+      "id": 110,
+      "question": "Which software feature allows file versioning?",
+      "options": [
+        "Cloud sync",
+        "Disk cleanup",
+        "Auto-start",
+        "Firewall"
+      ],
+      "answer": "Cloud sync"
+    },
+    {
+      "id": 111,
+      "question": "Which file format is commonly used for file compression before sharing?",
+      "options": [
+        ".zip",
+        ".exe",
+        ".docx",
+        ".html"
+      ],
+      "answer": ".zip"
+    },
+    {
+      "id": 112,
+      "question": "What does 'upload' mean in file sharing?",
+      "options": [
+        "Send file to a server",
+        "Download file",
+        "Delete a file",
+        "Print a file"
+      ],
+      "answer": "Send file to a server"
+    },
+    {
+      "id": 113,
+      "question": "Which type of access allows users to only view files?",
+      "options": [
+        "Read-only",
+        "Full control",
+        "Write",
+        "Modify"
+      ],
+      "answer": "Read-only"
+    },
+    {
+      "id": 114,
+      "question": "What does encryption do in file sharing?",
+      "options": [
+        "Protects data from unauthorized access",
+        "Deletes old files",
+        "Compresses the file",
+        "Increases upload speed"
+      ],
+      "answer": "Protects data from unauthorized access"
+    },
+    {
+      "id": 115,
+      "question": "Which of these is used to assign permissions on a shared folder?",
+      "options": [
+        "User groups",
+        "Icons",
+        "Themes",
+        "Desktop background"
+      ],
+      "answer": "User groups"
+    },
+    {
+      "id": 116,
+      "question": "What is the main benefit of cloud-based file sharing?",
+      "options": [
+        "Access from anywhere",
+        "More colors",
+        "Faster printing",
+        "Better resolution"
+      ],
+      "answer": "Access from anywhere"
+    },
+    {
+      "id": 117,
+      "question": "Which of these can limit file sharing on a network?",
+      "options": [
+        "Firewall",
+        "Web browser",
+        "Video player",
+        "Text editor"
+      ],
+      "answer": "Firewall"
+    },
+    {
+      "id": 118,
+      "question": "Which device is used for portable file sharing?",
+      "options": [
+        "USB Drive",
+        "Monitor",
+        "Router",
+        "Webcam"
+      ],
+      "answer": "USB Drive"
+    },
+    {
+      "id": 119,
+      "question": "What is one way to protect shared files?",
+      "options": [
+        "Password protection",
+        "Renaming them",
+        "Minimizing them",
+        "Changing icons"
+      ],
+      "answer": "Password protection"
+    },
+    {
+      "id": 120,
+      "question": "Which of these allows file sharing between Android phones?",
+      "options": [
+        "Nearby Share",
+        "Recycle Bin",
+        "Airplane Mode",
+        "Task Manager"
+      ],
+      "answer": "Nearby Share"
+    }
+  ],
+  "createdAt": "2025-07-23T15:36:42.083000",
+  "isActive": false
+}

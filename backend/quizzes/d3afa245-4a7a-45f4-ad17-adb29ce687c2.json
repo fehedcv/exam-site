@@ -1,0 +1,1329 @@
+{
+  "id": "d3afa245-4a7a-45f4-ad17-adb29ce687c2",
+  "name": "ITI 1st year exam",
+  "description": "first year exam viva",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which shortcut key is used to copy selected text in MS Word?",
+      "options": [
+        "Ctrl + X",
+        "Ctrl + V",
+        "Ctrl + C",
+        "Ctrl + Z"
+      ],
+      "answer": "Ctrl + C"
+    },
+    {
+      "id": 2,
+      "question": "What is the default file extension for a Word document in Word 2016?",
+      "options": [
+        ".txt",
+        ".docx",
+        ".doc",
+        ".pdf"
+      ],
+      "answer": ".docx"
+    },
+    {
+      "id": 3,
+      "question": "Which tab contains the 'Font' group in MS Word?",
+      "options": [
+        "Insert",
+        "Home",
+        "Design",
+        "View"
+      ],
+      "answer": "Home"
+    },
+    {
+      "id": 4,
+      "question": "Which feature is used to check spelling in MS Word?",
+      "options": [
+        "Grammar Check",
+        "Spell Check",
+        "AutoCorrect",
+        "Spelling & Grammar"
+      ],
+      "answer": "Spelling & Grammar"
+    },
+    {
+      "id": 5,
+      "question": "What does the shortcut 'Ctrl + B' do in MS Word?",
+      "options": [
+        "Italic",
+        "Underline",
+        "Bold",
+        "Save"
+      ],
+      "answer": "Bold"
+    },
+    {
+      "id": 6,
+      "question": "What is the function of 'Ctrl + S' in MS Word?",
+      "options": [
+        "Open a document",
+        "Save a document",
+        "Close Word",
+        "Select all text"
+      ],
+      "answer": "Save a document"
+    },
+    {
+      "id": 7,
+      "question": "Which menu/tab would you use to insert a table?",
+      "options": [
+        "Insert",
+        "Layout",
+        "View",
+        "References"
+      ],
+      "answer": "Insert"
+    },
+    {
+      "id": 8,
+      "question": "How can you change the orientation of a page?",
+      "options": [
+        "Design Tab",
+        "Insert Tab",
+        "Layout Tab",
+        "Home Tab"
+      ],
+      "answer": "Layout Tab"
+    },
+    {
+      "id": 9,
+      "question": "Which key combination is used to undo an action?",
+      "options": [
+        "Ctrl + Y",
+        "Ctrl + Z",
+        "Ctrl + U",
+        "Ctrl + A"
+      ],
+      "answer": "Ctrl + Z"
+    },
+    {
+      "id": 10,
+      "question": "Which feature is used to create a duplicate of selected text?",
+      "options": [
+        "Cut",
+        "Copy",
+        "Paste",
+        "Undo"
+      ],
+      "answer": "Copy"
+    },
+    {
+      "id": 11,
+      "question": "What is the purpose of 'Thesaurus' in MS Word?",
+      "options": [
+        "Check grammar",
+        "Check spelling",
+        "Find synonyms",
+        "Translate text"
+      ],
+      "answer": "Find synonyms"
+    },
+    {
+      "id": 12,
+      "question": "Where can you find 'Header & Footer' option?",
+      "options": [
+        "Home",
+        "Insert",
+        "View",
+        "Review"
+      ],
+      "answer": "Insert"
+    },
+    {
+      "id": 13,
+      "question": "Which tool is used to combine multiple documents?",
+      "options": [
+        "Mail Merge",
+        "Document Merge",
+        "Text Merge",
+        "Insert Merge"
+      ],
+      "answer": "Mail Merge"
+    },
+    {
+      "id": 14,
+      "question": "What is the shortcut to create a new document?",
+      "options": [
+        "Ctrl + O",
+        "Ctrl + N",
+        "Ctrl + S",
+        "Ctrl + P"
+      ],
+      "answer": "Ctrl + N"
+    },
+    {
+      "id": 15,
+      "question": "Which command is used to print a document?",
+      "options": [
+        "Ctrl + P",
+        "Ctrl + O",
+        "Ctrl + D",
+        "Ctrl + E"
+      ],
+      "answer": "Ctrl + P"
+    },
+    {
+      "id": 16,
+      "question": "What does 'Justify' do to text alignment?",
+      "options": [
+        "Aligns left",
+        "Aligns right",
+        "Centers text",
+        "Aligns evenly between margins"
+      ],
+      "answer": "Aligns evenly between margins"
+    },
+    {
+      "id": 17,
+      "question": "How can you apply bold formatting quickly?",
+      "options": [
+        "Ctrl + I",
+        "Ctrl + U",
+        "Ctrl + B",
+        "Ctrl + Shift + B"
+      ],
+      "answer": "Ctrl + B"
+    },
+    {
+      "id": 18,
+      "question": "What is the use of 'Track Changes'?",
+      "options": [
+        "Highlight spelling errors",
+        "Highlight grammar issues",
+        "Track document edits",
+        "Translate text"
+      ],
+      "answer": "Track document edits"
+    },
+    {
+      "id": 19,
+      "question": "How do you insert a page break?",
+      "options": [
+        "Insert → Page Number",
+        "Layout → Breaks → Page",
+        "Home → Page",
+        "View → Page Break"
+      ],
+      "answer": "Layout → Breaks → Page"
+    },
+    {
+      "id": 20,
+      "question": "Which feature allows repeating the last action?",
+      "options": [
+        "Redo",
+        "Repeat",
+        "Copy",
+        "Reapply"
+      ],
+      "answer": "Repeat"
+    },
+    {
+      "id": 21,
+      "question": "Which is the default alignment for text in MS Word?",
+      "options": [
+        "Right",
+        "Left",
+        "Center",
+        "Justify"
+      ],
+      "answer": "Left"
+    },
+    {
+      "id": 22,
+      "question": "What does the 'Ctrl + U' shortcut do?",
+      "options": [
+        "Underline",
+        "Undo",
+        "Uppercase",
+        "Unhighlight"
+      ],
+      "answer": "Underline"
+    },
+    {
+      "id": 23,
+      "question": "Which view is best for reading documents?",
+      "options": [
+        "Print Layout",
+        "Web Layout",
+        "Outline",
+        "Read Mode"
+      ],
+      "answer": "Read Mode"
+    },
+    {
+      "id": 24,
+      "question": "How do you select the entire document quickly?",
+      "options": [
+        "Ctrl + A",
+        "Ctrl + Shift + End",
+        "Ctrl + S",
+        "Ctrl + Home"
+      ],
+      "answer": "Ctrl + A"
+    },
+    {
+      "id": 25,
+      "question": "How can you insert a comment in MS Word?",
+      "options": [
+        "Insert → Text Box",
+        "Review → Comment",
+        "View → Comment",
+        "Home → Notes"
+      ],
+      "answer": "Review → Comment"
+    },
+    {
+      "id": 26,
+      "question": "Which tab includes 'Margins' settings?",
+      "options": [
+        "Insert",
+        "Layout",
+        "Design",
+        "Home"
+      ],
+      "answer": "Layout"
+    },
+    {
+      "id": 27,
+      "question": "What is the function of 'Ctrl + X'?",
+      "options": [
+        "Copy",
+        "Cut",
+        "Paste",
+        "Undo"
+      ],
+      "answer": "Cut"
+    },
+    {
+      "id": 28,
+      "question": "Which option helps to find and replace words in MS Word?",
+      "options": [
+        "Track Changes",
+        "Review",
+        "Find and Replace",
+        "AutoCorrect"
+      ],
+      "answer": "Find and Replace"
+    },
+    {
+      "id": 29,
+      "question": "Which button is used to center align text?",
+      "options": [
+        "Align Left",
+        "Center",
+        "Align Right",
+        "Justify"
+      ],
+      "answer": "Center"
+    },
+    {
+      "id": 30,
+      "question": "Which option would you use to apply a watermark?",
+      "options": [
+        "Home → Watermark",
+        "Design → Watermark",
+        "Insert → Watermark",
+        "Layout → Watermark"
+      ],
+      "answer": "Design → Watermark"
+    },
+    {
+      "id": 31,
+      "question": "What is the default file extension for an Excel workbook?",
+      "options": [
+        ".xlsx",
+        ".docx",
+        ".pptx",
+        ".txt"
+      ],
+      "answer": ".xlsx"
+    },
+    {
+      "id": 32,
+      "question": "Which symbol is used to start a formula in Excel?",
+      "options": [
+        "=",
+        "+",
+        "-",
+        "*"
+      ],
+      "answer": "="
+    },
+    {
+      "id": 33,
+      "question": "Which function is used to calculate the average of numbers?",
+      "options": [
+        "AVERAGE",
+        "SUM",
+        "COUNT",
+        "MEAN"
+      ],
+      "answer": "AVERAGE"
+    },
+    {
+      "id": 34,
+      "question": "Which tab contains the 'Conditional Formatting' option?",
+      "options": [
+        "Home",
+        "Insert",
+        "Page Layout",
+        "Data"
+      ],
+      "answer": "Home"
+    },
+    {
+      "id": 35,
+      "question": "What does the SUM function do?",
+      "options": [
+        "Adds values",
+        "Subtracts values",
+        "Multiplies values",
+        "Divides values"
+      ],
+      "answer": "Adds values"
+    },
+    {
+      "id": 36,
+      "question": "Which function counts only numeric values?",
+      "options": [
+        "COUNT",
+        "COUNTA",
+        "COUNTIF",
+        "COUNTBLANK"
+      ],
+      "answer": "COUNT"
+    },
+    {
+      "id": 37,
+      "question": "Which function returns the current date?",
+      "options": [
+        "TODAY()",
+        "NOW()",
+        "DATE()",
+        "TIME()"
+      ],
+      "answer": "TODAY()"
+    },
+    {
+      "id": 38,
+      "question": "Which key is used to edit a cell?",
+      "options": [
+        "F2",
+        "F4",
+        "F1",
+        "F5"
+      ],
+      "answer": "F2"
+    },
+    {
+      "id": 39,
+      "question": "Which chart type is best for showing trends over time?",
+      "options": [
+        "Line",
+        "Pie",
+        "Bar",
+        "Doughnut"
+      ],
+      "answer": "Line"
+    },
+    {
+      "id": 40,
+      "question": "What does the IF function do?",
+      "options": [
+        "Checks a condition and returns a value",
+        "Adds numbers",
+        "Formats cells",
+        "Sorts data"
+      ],
+      "answer": "Checks a condition and returns a value"
+    },
+    {
+      "id": 41,
+      "question": "What does the VLOOKUP function do?",
+      "options": [
+        "Looks up values vertically",
+        "Looks up values horizontally",
+        "Sorts data",
+        "Filters data"
+      ],
+      "answer": "Looks up values vertically"
+    },
+    {
+      "id": 42,
+      "question": "Which function returns the number of non-empty cells?",
+      "options": [
+        "COUNTA",
+        "COUNT",
+        "COUNTIF",
+        "COUNTBLANK"
+      ],
+      "answer": "COUNTA"
+    },
+    {
+      "id": 43,
+      "question": "Which feature is used to fill data automatically?",
+      "options": [
+        "AutoFill",
+        "Flash Fill",
+        "Data Fill",
+        "Quick Fill"
+      ],
+      "answer": "AutoFill"
+    },
+    {
+      "id": 44,
+      "question": "Which formula finds the highest value?",
+      "options": [
+        "MAX",
+        "MIN",
+        "HIGH",
+        "TOP"
+      ],
+      "answer": "MAX"
+    },
+    {
+      "id": 45,
+      "question": "What is a cell in Excel?",
+      "options": [
+        "An intersection of row and column",
+        "A row",
+        "A column",
+        "A worksheet"
+      ],
+      "answer": "An intersection of row and column"
+    },
+    {
+      "id": 46,
+      "question": "Which function combines text from multiple cells?",
+      "options": [
+        "CONCATENATE",
+        "COMBINE",
+        "JOIN",
+        "MERGE"
+      ],
+      "answer": "CONCATENATE"
+    },
+    {
+      "id": 47,
+      "question": "Which shortcut saves the current workbook?",
+      "options": [
+        "Ctrl + S",
+        "Ctrl + C",
+        "Ctrl + X",
+        "Ctrl + P"
+      ],
+      "answer": "Ctrl + S"
+    },
+    {
+      "id": 48,
+      "question": "Which function counts blank cells?",
+      "options": [
+        "COUNTBLANK",
+        "COUNTA",
+        "COUNT",
+        "ISBLANK"
+      ],
+      "answer": "COUNTBLANK"
+    },
+    {
+      "id": 49,
+      "question": "How do you start a new line in a cell?",
+      "options": [
+        "Alt + Enter",
+        "Ctrl + Enter",
+        "Shift + Enter",
+        "Enter"
+      ],
+      "answer": "Alt + Enter"
+    },
+    {
+      "id": 50,
+      "question": "Which tab has the 'PivotTable' option?",
+      "options": [
+        "Insert",
+        "Formulas",
+        "Data",
+        "View"
+      ],
+      "answer": "Insert"
+    },
+    {
+      "id": 51,
+      "question": "What is the shortcut for copying?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + X",
+        "Ctrl + Z"
+      ],
+      "answer": "Ctrl + C"
+    },
+    {
+      "id": 52,
+      "question": "Which function finds the lowest value?",
+      "options": [
+        "MIN",
+        "MAX",
+        "LOW",
+        "BOTTOM"
+      ],
+      "answer": "MIN"
+    },
+    {
+      "id": 53,
+      "question": "What does the 'Merge & Center' button do?",
+      "options": [
+        "Combines and centers text",
+        "Just centers text",
+        "Merges rows",
+        "Splits cells"
+      ],
+      "answer": "Combines and centers text"
+    },
+    {
+      "id": 54,
+      "question": "How do you refer to the cell at column B and row 4?",
+      "options": [
+        "B4",
+        "4B",
+        "2,4",
+        "Cell B:4"
+      ],
+      "answer": "B4"
+    },
+    {
+      "id": 55,
+      "question": "Which function gives the current time?",
+      "options": [
+        "NOW()",
+        "TODAY()",
+        "TIME()",
+        "DATE()"
+      ],
+      "answer": "NOW()"
+    },
+    {
+      "id": 56,
+      "question": "Which chart is best for showing parts of a whole?",
+      "options": [
+        "Pie Chart",
+        "Bar Chart",
+        "Line Chart",
+        "Scatter Plot"
+      ],
+      "answer": "Pie Chart"
+    },
+    {
+      "id": 57,
+      "question": "What does the Format Painter do?",
+      "options": [
+        "Copies formatting",
+        "Copies content",
+        "Deletes formatting",
+        "Formats numbers"
+      ],
+      "answer": "Copies formatting"
+    },
+    {
+      "id": 58,
+      "question": "Which function is used to count cells based on a condition?",
+      "options": [
+        "COUNTIF",
+        "IF",
+        "COUNT",
+        "SUMIF"
+      ],
+      "answer": "COUNTIF"
+    },
+    {
+      "id": 59,
+      "question": "How do you freeze the top row?",
+      "options": [
+        "View > Freeze Panes > Freeze Top Row",
+        "Data > Sort",
+        "Insert > Freeze",
+        "Home > Freeze"
+      ],
+      "answer": "View > Freeze Panes > Freeze Top Row"
+    },
+    {
+      "id": 60,
+      "question": "Which Excel feature helps remove duplicate values?",
+      "options": [
+        "Remove Duplicates",
+        "Delete Rows",
+        "Sort",
+        "Clear Contents"
+      ],
+      "answer": "Remove Duplicates"
+    },
+    {
+      "id": 61,
+      "question": "Which file extension is used for PowerPoint presentations?",
+      "options": [
+        ".pptx",
+        ".docx",
+        ".xlsx",
+        ".txt"
+      ],
+      "answer": ".pptx"
+    },
+    {
+      "id": 62,
+      "question": "Which tab is used to insert a new slide in PowerPoint?",
+      "options": [
+        "Home",
+        "Insert",
+        "Design",
+        "Slide Show"
+      ],
+      "answer": "Home"
+    },
+    {
+      "id": 63,
+      "question": "Which shortcut key is used to start a slide show from the beginning?",
+      "options": [
+        "F5",
+        "Shift + F5",
+        "F2",
+        "Ctrl + S"
+      ],
+      "answer": "F5"
+    },
+    {
+      "id": 64,
+      "question": "Which view is used to rearrange slides easily?",
+      "options": [
+        "Slide Sorter",
+        "Normal",
+        "Reading",
+        "Outline"
+      ],
+      "answer": "Slide Sorter"
+    },
+    {
+      "id": 65,
+      "question": "What is the default layout for a new slide?",
+      "options": [
+        "Title and Content",
+        "Blank",
+        "Title Slide",
+        "Two Content"
+      ],
+      "answer": "Title and Content"
+    },
+    {
+      "id": 66,
+      "question": "Which feature is used to apply motion effects to slides?",
+      "options": [
+        "Transition",
+        "Animation",
+        "Effect",
+        "Design"
+      ],
+      "answer": "Transition"
+    },
+    {
+      "id": 67,
+      "question": "Which tab lets you add charts in PowerPoint?",
+      "options": [
+        "Insert",
+        "Design",
+        "Review",
+        "View"
+      ],
+      "answer": "Insert"
+    },
+    {
+      "id": 68,
+      "question": "What is the purpose of the 'Slide Master'?",
+      "options": [
+        "To control the design and layout of slides",
+        "To insert videos",
+        "To view slide show",
+        "To add animations"
+      ],
+      "answer": "To control the design and layout of slides"
+    },
+    {
+      "id": 69,
+      "question": "Which key deletes a slide in PowerPoint?",
+      "options": [
+        "Delete",
+        "Backspace",
+        "Ctrl + D",
+        "Esc"
+      ],
+      "answer": "Delete"
+    },
+    {
+      "id": 70,
+      "question": "What is used to add visual movement to text and objects?",
+      "options": [
+        "Animations",
+        "Transitions",
+        "Effects",
+        "Themes"
+      ],
+      "answer": "Animations"
+    },
+    {
+      "id": 71,
+      "question": "How can you duplicate a slide quickly?",
+      "options": [
+        "Ctrl + D",
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + N"
+      ],
+      "answer": "Ctrl + D"
+    },
+    {
+      "id": 72,
+      "question": "Where do you go to change the theme of a presentation?",
+      "options": [
+        "Design tab",
+        "Insert tab",
+        "Animations tab",
+        "View tab"
+      ],
+      "answer": "Design tab"
+    },
+    {
+      "id": 73,
+      "question": "Which option is used to print slides with notes?",
+      "options": [
+        "Notes Pages",
+        "Handouts",
+        "Full Page Slides",
+        "Outline"
+      ],
+      "answer": "Notes Pages"
+    },
+    {
+      "id": 74,
+      "question": "Which tab is used to insert audio or video files?",
+      "options": [
+        "Insert",
+        "Home",
+        "Transitions",
+        "Slide Show"
+      ],
+      "answer": "Insert"
+    },
+    {
+      "id": 75,
+      "question": "What does Slide Show tab help with?",
+      "options": [
+        "Presenting the slides",
+        "Editing text",
+        "Adding charts",
+        "Inserting tables"
+      ],
+      "answer": "Presenting the slides"
+    },
+    {
+      "id": 76,
+      "question": "Which format is not a valid PowerPoint file?",
+      "options": [
+        ".pptx",
+        ".ppt",
+        ".ppsx",
+        ".docx"
+      ],
+      "answer": ".docx"
+    },
+    {
+      "id": 77,
+      "question": "Which option lets you reuse slides from another presentation?",
+      "options": [
+        "Reuse Slides",
+        "Insert Slide",
+        "New Slide",
+        "Duplicate Slide"
+      ],
+      "answer": "Reuse Slides"
+    },
+    {
+      "id": 78,
+      "question": "Which tool helps align objects evenly on a slide?",
+      "options": [
+        "Align",
+        "Gridlines",
+        "Ruler",
+        "Zoom"
+      ],
+      "answer": "Align"
+    },
+    {
+      "id": 79,
+      "question": "Which view is used for writing speaker notes?",
+      "options": [
+        "Notes Page",
+        "Slide Sorter",
+        "Reading View",
+        "Outline View"
+      ],
+      "answer": "Notes Page"
+    },
+    {
+      "id": 80,
+      "question": "What is the maximum zoom percentage in PowerPoint?",
+      "options": [
+        "400%",
+        "500%",
+        "200%",
+        "100%"
+      ],
+      "answer": "400%"
+    },
+    {
+      "id": 81,
+      "question": "What is the purpose of the Animation Pane?",
+      "options": [
+        "To control the order and timing of animations",
+        "To insert animations",
+        "To preview transitions",
+        "To add charts"
+      ],
+      "answer": "To control the order and timing of animations"
+    },
+    {
+      "id": 82,
+      "question": "Which function allows slides to advance automatically?",
+      "options": [
+        "Set Timing",
+        "Manual Click",
+        "Auto Play",
+        "Record Slide Show"
+      ],
+      "answer": "Set Timing"
+    },
+    {
+      "id": 83,
+      "question": "Which tab lets you check spelling in your presentation?",
+      "options": [
+        "Review",
+        "View",
+        "Insert",
+        "File"
+      ],
+      "answer": "Review"
+    },
+    {
+      "id": 84,
+      "question": "Which view is best for editing slide content?",
+      "options": [
+        "Normal",
+        "Slide Sorter",
+        "Reading",
+        "Slide Show"
+      ],
+      "answer": "Normal"
+    },
+    {
+      "id": 85,
+      "question": "Which command is used to create a new PowerPoint file?",
+      "options": [
+        "Ctrl + N",
+        "Ctrl + M",
+        "Ctrl + Shift + N",
+        "Ctrl + O"
+      ],
+      "answer": "Ctrl + N"
+    },
+    {
+      "id": 86,
+      "question": "How can you insert a table into a slide?",
+      "options": [
+        "Insert > Table",
+        "Home > Layout",
+        "Design > Insert Table",
+        "View > Table"
+      ],
+      "answer": "Insert > Table"
+    },
+    {
+      "id": 87,
+      "question": "Which command is used to save a presentation?",
+      "options": [
+        "Ctrl + S",
+        "Ctrl + V",
+        "Ctrl + O",
+        "Ctrl + P"
+      ],
+      "answer": "Ctrl + S"
+    },
+    {
+      "id": 88,
+      "question": "How can you insert SmartArt graphics?",
+      "options": [
+        "Insert > SmartArt",
+        "Design > SmartArt",
+        "Home > Insert SmartArt",
+        "View > SmartArt"
+      ],
+      "answer": "Insert > SmartArt"
+    },
+    {
+      "id": 89,
+      "question": "What is the slide layout used for a title and subtitle?",
+      "options": [
+        "Title Slide",
+        "Title and Content",
+        "Two Content",
+        "Blank"
+      ],
+      "answer": "Title Slide"
+    },
+    {
+      "id": 90,
+      "question": "Which pane shows a thumbnail of all slides?",
+      "options": [
+        "Slides Pane",
+        "Notes Pane",
+        "Outline Pane",
+        "Task Pane"
+      ],
+      "answer": "Slides Pane"
+    },
+    {
+      "id": 91,
+      "question": "What is the shortcut key to create a company in Tally 9?",
+      "options": [
+        "F1",
+        "Alt + F3",
+        "Ctrl + F3",
+        "Alt + C"
+      ],
+      "answer": "Alt + F3"
+    },
+    {
+      "id": 92,
+      "question": "Which key is used to shut a company in Tally 9?",
+      "options": [
+        "Alt + F1",
+        "Alt + F3",
+        "Ctrl + Q",
+        "Ctrl + W"
+      ],
+      "answer": "Alt + F1"
+    },
+    {
+      "id": 93,
+      "question": "To alter company information, which menu option is used?",
+      "options": [
+        "Company Info",
+        "Accounts Info",
+        "Gateway of Tally",
+        "Inventory Info"
+      ],
+      "answer": "Company Info"
+    },
+    {
+      "id": 94,
+      "question": "Which voucher type is used to record purchase transactions?",
+      "options": [
+        "Sales Voucher",
+        "Receipt Voucher",
+        "Payment Voucher",
+        "Purchase Voucher"
+      ],
+      "answer": "Purchase Voucher"
+    },
+    {
+      "id": 95,
+      "question": "Which shortcut is used to create a ledger in Tally 9?",
+      "options": [
+        "Alt + L",
+        "Alt + C",
+        "Ctrl + L",
+        "F11"
+      ],
+      "answer": "Alt + C"
+    },
+    {
+      "id": 96,
+      "question": "What does 'F11' function key do in Tally?",
+      "options": [
+        "Open Company",
+        "Shut Company",
+        "Features",
+        "Accounts Info"
+      ],
+      "answer": "Features"
+    },
+    {
+      "id": 97,
+      "question": "How can you display the Day Book in Tally 9?",
+      "options": [
+        "By pressing F12",
+        "By pressing Alt + D",
+        "By pressing Alt + F1",
+        "By pressing Ctrl + F1"
+      ],
+      "answer": "By pressing Alt + F1"
+    },
+    {
+      "id": 98,
+      "question": "What is the default password for Tally 9?",
+      "options": [
+        "admin",
+        "1234",
+        "There is no default password",
+        "tally"
+      ],
+      "answer": "There is no default password"
+    },
+    {
+      "id": 99,
+      "question": "Which voucher type is used for recording income?",
+      "options": [
+        "Payment",
+        "Receipt",
+        "Contra",
+        "Journal"
+      ],
+      "answer": "Receipt"
+    },
+    {
+      "id": 100,
+      "question": "Which shortcut is used to quit Tally?",
+      "options": [
+        "Alt + Q",
+        "Ctrl + Q",
+        "Ctrl + W",
+        "Alt + F4"
+      ],
+      "answer": "Ctrl + Q"
+    },
+    {
+      "id": 101,
+      "question": "Which menu contains the 'Chart of Accounts' in Tally?",
+      "options": [
+        "Inventory Info",
+        "Gateway of Tally",
+        "Display",
+        "Accounts Info"
+      ],
+      "answer": "Display"
+    },
+    {
+      "id": 102,
+      "question": "Which key is used to duplicate a voucher in Tally?",
+      "options": [
+        "Alt + 2",
+        "Ctrl + D",
+        "Ctrl + C",
+        "Alt + D"
+      ],
+      "answer": "Alt + 2"
+    },
+    {
+      "id": 103,
+      "question": "Which report displays outstanding receivables?",
+      "options": [
+        "Trial Balance",
+        "Day Book",
+        "Outstanding Report",
+        "Stock Summary"
+      ],
+      "answer": "Outstanding Report"
+    },
+    {
+      "id": 104,
+      "question": "Which function key is used for Payment Voucher?",
+      "options": [
+        "F4",
+        "F5",
+        "F6",
+        "F7"
+      ],
+      "answer": "F5"
+    },
+    {
+      "id": 105,
+      "question": "Which feature in Tally helps in tracking inventory?",
+      "options": [
+        "Accounts Info",
+        "Inventory Info",
+        "Statutory Info",
+        "Payroll Info"
+      ],
+      "answer": "Inventory Info"
+    },
+    {
+      "id": 106,
+      "question": "To view Trial Balance in Tally, you go to:",
+      "options": [
+        "Display > Trial Balance",
+        "Gateway of Tally > Trial Balance",
+        "Accounts Info > Trial Balance",
+        "Utilities > Trial Balance"
+      ],
+      "answer": "Display > Trial Balance"
+    },
+    {
+      "id": 107,
+      "question": "Which feature is used for automatic calculations in Tally?",
+      "options": [
+        "Auto Fill",
+        "Calculator Panel",
+        "Ledger Settings",
+        "Voucher Configuration"
+      ],
+      "answer": "Calculator Panel"
+    },
+    {
+      "id": 108,
+      "question": "Which voucher type is used for cash deposit into the bank?",
+      "options": [
+        "Payment",
+        "Receipt",
+        "Contra",
+        "Journal"
+      ],
+      "answer": "Contra"
+    },
+    {
+      "id": 109,
+      "question": "To delete a ledger in Tally, which key is used?",
+      "options": [
+        "Alt + D",
+        "Ctrl + D",
+        "Del",
+        "Shift + D"
+      ],
+      "answer": "Alt + D"
+    },
+    {
+      "id": 110,
+      "question": "Which report shows the closing balances of all accounts?",
+      "options": [
+        "Balance Sheet",
+        "Trial Balance",
+        "Day Book",
+        "Ledger"
+      ],
+      "answer": "Trial Balance"
+    },
+    {
+      "id": 111,
+      "question": "To activate VAT in Tally, you use:",
+      "options": [
+        "F11 Features",
+        "Statutory Info",
+        "F12 Configuration",
+        "Accounts Info"
+      ],
+      "answer": "F11 Features"
+    },
+    {
+      "id": 112,
+      "question": "Which key opens the company selection menu?",
+      "options": [
+        "F1",
+        "F2",
+        "Alt + F1",
+        "Alt + F3"
+      ],
+      "answer": "F1"
+    },
+    {
+      "id": 113,
+      "question": "In Tally, Payroll management is available under:",
+      "options": [
+        "Accounts Info",
+        "Statutory Info",
+        "Payroll Info",
+        "Display"
+      ],
+      "answer": "Payroll Info"
+    },
+    {
+      "id": 114,
+      "question": "Which voucher is used for adjustments and provisions?",
+      "options": [
+        "Receipt",
+        "Journal",
+        "Payment",
+        "Purchase"
+      ],
+      "answer": "Journal"
+    },
+    {
+      "id": 115,
+      "question": "What is the shortcut key to change the date in Tally?",
+      "options": [
+        "F2",
+        "Alt + F2",
+        "Ctrl + F2",
+        "F1"
+      ],
+      "answer": "F2"
+    },
+    {
+      "id": 116,
+      "question": "To make inventory entries mandatory, you go to:",
+      "options": [
+        "Accounts Info",
+        "Inventory Info",
+        "F11 Features",
+        "F12 Configuration"
+      ],
+      "answer": "F11 Features"
+    },
+    {
+      "id": 117,
+      "question": "Which key is used to alter a master in Tally?",
+      "options": [
+        "Ctrl + A",
+        "Alt + A",
+        "Enter",
+        "Alt + G"
+      ],
+      "answer": "Enter"
+    },
+    {
+      "id": 118,
+      "question": "Which voucher is used to record capital introduction?",
+      "options": [
+        "Journal",
+        "Receipt",
+        "Contra",
+        "Payment"
+      ],
+      "answer": "Receipt"
+    },
+    {
+      "id": 119,
+      "question": "Which report shows all cash and bank balances?",
+      "options": [
+        "Cash Book",
+        "Balance Sheet",
+        "Trial Balance",
+        "Bank Reconciliation"
+      ],
+      "answer": "Cash Book"
+    },
+    {
+      "id": 120,
+      "question": "What is the shortcut for Sales Voucher in Tally?",
+      "options": [
+        "F6",
+        "F7",
+        "F8",
+        "F9"
+      ],
+      "answer": "F8"
+    }
+  ],
+  "createdAt": "2025-07-23T15:30:13.223747",
+  "isActive": false
+}
